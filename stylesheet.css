@@ -1,0 +1,11 @@
+.funky-text {
+    font-size: 16px;
+    color: limegreen;
+    font-style: italic;
+}
+html {
+    background-color: black;
+    background-image: url('http://tiny.cc/grassy-field');
+    background-size: cover;
+    background-attachment: fixed;
+}
