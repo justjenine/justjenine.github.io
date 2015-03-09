@@ -4,8 +4,15 @@
     font-style: italic;
 }
 html {
-    background-color: black;
-    background-image: url('http://tiny.cc/grassy-field');
+    background-color: ivory; 
     background-size: cover;
     background-attachment: fixed;
+}
+.gallery img {
+    height: 200px;
+    border-width: 5px;
+    border-color: #333333;
+    border-style: inset;
+    box-shadow: 3px 3px 5px 6px #aaaaaa;
+    margin: 5px;
 }
